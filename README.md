@@ -12,12 +12,8 @@ Created by [Hannah Stulberg](https://hannahstulberg.substack.com/).
 
 ## Where to learn more
 
-- **In the Weeds:** Hannah's Substack on practical AI workflows - https://hannahstulberg.substack.com/
-- **Product Growth:** Aakash Gupta's Substack on product management and growth - https://www.news.aakashg.com/
-- **Article:** <!-- TODO: add direct article link -->
-- **YouTube:** <!-- TODO: add video link -->
-- **Apple Podcasts:** <!-- TODO: add Apple Podcasts link -->
-- **Spotify:** <!-- TODO: add Spotify link -->
+- **[In the Weeds](https://hannahstulberg.substack.com/):** Hannah's Substack on practical AI workflows
+- **[Product Growth](https://www.news.aakashg.com/):** Aakash Gupta's Substack on product management and growth
 
 ## License
 
