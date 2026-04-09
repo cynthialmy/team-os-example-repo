@@ -10,6 +10,7 @@ Operational processes and how-to guides for Forge.
 | File | Description |
 |------|-------------|
 | `customer-onboarding-checklist.md` | Step-by-step checklist for onboarding new Forge customers |
+| `team-os-principles-and-advanced-planning.md` | Practical Team OS principles, prompting patterns, and advanced plan-mode techniques for AI-native PM workflows |
 
 ---
 

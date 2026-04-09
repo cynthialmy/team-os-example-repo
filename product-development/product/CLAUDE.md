@@ -57,6 +57,7 @@ Each folder has its own `CLAUDE.md` with folder-specific context.
 | Users & JTBD | `strategy/business-context/forge-jtbd-and-users.md` |
 | Customer Accounts | `customers/CLAUDE.md` (named accounts, segments, data source pointers) |
 | PRDs | `PRDs/CLAUDE.md` |
+| Team OS and Planning Playbook | `processes/team-os-principles-and-advanced-planning.md` |
 | Analytics | `../analytics/CLAUDE.md` |
 
 ---
