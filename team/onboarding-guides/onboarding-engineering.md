@@ -12,10 +12,10 @@ See [General Onboarding](onboarding-general.md#shared-tools-everyone-gets-these)
 
 | Tool | Purpose | Access |
 |------|---------|--------|
-| Datadog | Monitoring, alerting, APM | Request access from Sam Torres |
+| Datadog | Monitoring, alerting, APM | Request access from Alex Rivera |
 | PagerDuty | On-call rotation and incident management | Added by EM after first month |
 | Vercel | Frontend deployments | `forge-labs` org |
-| AWS Console | Infrastructure (read access initially) | Request from Sam Torres |
+| AWS Console | Infrastructure (read access initially) | Request from Alex Rivera |
 
 ### Repos
 
@@ -38,32 +38,31 @@ See [General Onboarding](onboarding-general.md#shared-tools-everyone-gets-these)
 
 ## Key Documents
 
-- [Frontend CLAUDE.md](../frontend/CLAUDE.md) - dev conventions, design system, React patterns
-- [Engineering TDDs](../engineering/tdds/) - technical design documents
-- [Product Context](../product/product-context/forge/CLAUDE.md) - system reference docs
-- [Platform Overview](../product/product-context/forge-platform-overview.md) - what Forge does end-to-end
+- [Engineering CLAUDE.md](../../product-development/engineering/CLAUDE.md) - engineering conventions and folder map
+- [Engineering Plans](../../product-development/engineering/plans/) - technical design and implementation plans
+- [Product Context](../../product-development/product/product-context/CLAUDE.md) - system reference docs
+- [Platform Overview](../../product-development/product/product-context/forge-platform-overview.md) - what Forge does end-to-end
 
 ## Slack Channels
 
 | Channel | Purpose |
 |---------|---------|
 | `#forge-eng` | Engineering discussion, architecture decisions |
-| `#forge-eng-standup` | Daily async standup posts |
+| `#forge-standup` | Daily async standup posts |
 | `#forge-incidents` | Production incidents and on-call alerts |
-| `#forge-deploys` | Automated deploy notifications |
-| `#forge-general` | Team-wide announcements |
+| `#forge-launches` | Launch and release coordination |
+| `#forge-random` | Team-wide announcements and social chat |
 
 ## People to Meet
 
 | Person | Why |
 |--------|-----|
 | Alex Rivera | EM - team structure, sprint process, growth plan |
-| Sam Torres | Engineering architecture, infrastructure |
-| Priya Patel | Engineering architecture, code review norms |
-| Jordan Kim | Eng peer - current sprint context |
-| Sam Chen | Eng peer - frontend patterns |
-| Riley Patel | Eng peer - AI pipeline |
-| Morgan Wu | Eng peer - infrastructure |
+| Jordan Kim | Engineering architecture and code review norms |
+| Sam Chen | Frontend patterns and delivery workflow |
+| Riley Patel | AI pipeline context |
+| Morgan Wu | Infrastructure and deployment context |
+| Hannah Stulberg | Product context and prioritization |
 
 ## Org Chart
 

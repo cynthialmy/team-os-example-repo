@@ -10,6 +10,15 @@ Instead of one person bottlenecking context, everyone on the team can self-serve
 
 Created by [Hannah Stulberg](https://hannahstulberg.substack.com/).
 
+## Documentation Map
+
+For humans and AI collaborators, use these docs as the primary entry points:
+
+- [CLAUDE.md](CLAUDE.md): canonical repository navigation and team directory
+- [product-development/CLAUDE.md](product-development/CLAUDE.md): product, engineering, analytics, and data engineering index
+- [product-development/feature-index.yaml](product-development/feature-index.yaml): feature-by-feature artifact map (PRDs, RFCs, plans, schemas, dashboards, experiments, tickets)
+- [team/CLAUDE.md](team/CLAUDE.md): onboarding and team resources
+
 ## Where to learn more
 
 - **[In the Weeds](https://hannahstulberg.substack.com/):** Hannah's Substack on practical AI workflows

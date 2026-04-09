@@ -78,8 +78,8 @@ billing:
       - engineering/bug-investigations/billing/bug-02-28-2026-referral-credits-missing/investigation-plan.md
 
   sso-integration:
-    prd: product/PRDs/sso-prd.md
-    eng-rfc: engineering/rfcs/sso-rfc.md
+    prd: product/PRDs/billing/sso-integration-prd.md
+    eng-rfc: engineering/rfcs/billing/sso-integration-rfc.md
     figma: https://figma.com/file/forge-sso
     tickets:
       - FORGE/890
@@ -110,7 +110,7 @@ prototyping:
       - engineering/bug-investigations/prototyping/bug-03-05-2026-collab-cursor-drift/investigation-plan.md
 
   component-library:
-    prd: product/PRDs/shared-components-prd.md
+    prd: product/PRDs/prototyping/component-library-prd.md
     eng-plan: engineering/plans/prototyping/component-library.md
     figma: https://figma.com/file/forge-components
     tickets:
@@ -124,15 +124,15 @@ prototyping:
       - FORGE/1005
 
   ai-generation-v3:
-    prd: product/PRDs/ai-gen-v3-prd.md
-    eng-rfc: engineering/rfcs/gen-v3-rfc.md
+    prd: product/PRDs/prototyping/ai-generation-v3-prd.md
+    eng-rfc: engineering/rfcs/prototyping/ai-generation-v3-rfc.md
     figma: https://figma.com/file/forge-gen-v3
     table-schemas:
       - analytics/schemas/prototyping/project-generations.md
 
   team-workspaces:
-    prd: product/PRDs/team-workspaces-prd.md
-    eng-rfc: engineering/rfcs/workspaces-rfc.md
+    prd: product/PRDs/prototyping/team-workspaces-prd.md
+    eng-rfc: engineering/rfcs/prototyping/team-workspaces-rfc.md
     figma: https://figma.com/file/forge-workspaces
 
 starter-templates:

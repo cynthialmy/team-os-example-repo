@@ -12,11 +12,11 @@ See [General Onboarding](onboarding-general.md#shared-tools-everyone-gets-these)
 
 | Tool | Purpose | Access |
 |------|---------|--------|
-| Snowflake | Data warehouse | Request access from Grace Lin |
+| Snowflake | Data warehouse | Request access from Casey Nguyen |
 | dbt | Data transformations and modeling | Access via `forge-data` repo |
-| Fivetran | Data ingestion pipelines | Admin access from Grace Lin |
+| Fivetran | Data ingestion pipelines | Admin access from Casey Nguyen |
 | Airflow | Pipeline orchestration | Access via `forge-data` repo |
-| AWS Console | S3, Lambda, data infrastructure | Request from Sam Torres |
+| AWS Console | S3, Lambda, data infrastructure | Request from Alex Rivera |
 
 ### Repos
 
@@ -37,31 +37,31 @@ See [General Onboarding](onboarding-general.md#shared-tools-everyone-gets-these)
 
 ## Key Documents
 
-- [Analytics CLAUDE.md](../product/analytics/CLAUDE.md) - metrics glossary, data sources, schema docs
-- [Analytics Schemas](../product/analytics/) - table definitions and column descriptions
-- [Product CLAUDE.md](../product/CLAUDE.md) - product context for understanding what data matters
+- [Analytics CLAUDE.md](../../product-development/analytics/CLAUDE.md) - metrics glossary, data sources, schema docs
+- [Analytics Schemas](../../product-development/analytics/schemas/) - table definitions and column descriptions
+- [Product CLAUDE.md](../../product-development/product/CLAUDE.md) - product context for understanding what data matters
 
 ## Slack Channels
 
 | Channel | Purpose |
 |---------|---------|
 | `#forge-eng` | Engineering discussion, relevant for pipeline dependencies |
-| `#forge-general` | Team-wide announcements |
+| `#forge-analytics` | Downstream analytics and dashboard dependencies |
 | `#forge-incidents` | Incidents that may affect data pipelines |
-| `#forge-deploys` | Deploy notifications that may trigger pipeline runs |
+| `#forge-launches` | Release notifications that may affect pipeline loads |
 
 ## People to Meet
 
 | Person | Why |
 |--------|-----|
-| Grace Lin | Data lead - pipeline architecture, access, priorities |
-| Casey Nguyen | Analytics - downstream consumer of your pipelines |
-| Sam Torres | Engineering architecture - upstream data sources |
+| Casey Nguyen | Data/analytics lead - pipeline priorities and data consumers |
+| Drew Martinez | Strategy & Ops stakeholder for business reporting dependencies |
+| Alex Rivera | Engineering management - system architecture and ownership |
 | Morgan Wu | Infrastructure - shared infra and deployment |
 
 ## Org Chart
 
-Data engineering works closely with Analytics (downstream consumers) and Engineering (upstream data sources). Data lead: Grace Lin. Primary analytics partner: Casey Nguyen. Infrastructure partner: Morgan Wu.
+Data engineering works closely with Analytics (downstream consumers) and Engineering (upstream data sources). Data/analytics lead: Casey Nguyen. Infrastructure partner: Morgan Wu.
 
 ## First Tasks
 

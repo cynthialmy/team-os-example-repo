@@ -12,9 +12,9 @@ See [General Onboarding](onboarding-general.md#shared-tools-everyone-gets-these)
 
 | Tool | Purpose | Access |
 |------|---------|--------|
-| Snowflake | Data warehouse, SQL queries | Request access from Grace Lin |
-| Amplitude | Product analytics, funnels, retention | Request access from Grace Lin |
-| Mode / Sigma | Data dashboards and reporting | Links in [dashboards.md](../product/analytics/dashboards.md) |
+| Snowflake | Data warehouse, SQL queries | Request access from Casey Nguyen |
+| Amplitude | Product analytics, funnels, retention | Request access from Casey Nguyen |
+| Mode / Sigma | Data dashboards and reporting | Links in [dashboards.md](../../product-development/analytics/dashboards.md) |
 | dbt | Data transformations (read access) | Access via `forge-data` repo |
 
 ### Repos
@@ -29,30 +29,29 @@ See [General Onboarding](onboarding-general.md#shared-tools-everyone-gets-these)
 1. Complete [General Onboarding](onboarding-general.md) setup first
 2. Get Snowflake access and connect your SQL client
 3. Get Amplitude access and explore existing dashboards
-4. Review the [analytics schemas](../product/analytics/CLAUDE.md) for table structures
+4. Review the [analytics schemas](../../product-development/analytics/CLAUDE.md) for table structures
 5. Bookmark key dashboards in Mode/Sigma
 
 ## Key Documents
 
-- [Analytics CLAUDE.md](../product/analytics/CLAUDE.md) - metrics glossary, data sources, common queries, RFCs
-- [Dashboards](../product/analytics/dashboards.md) - existing dashboards and links
-- [Product CLAUDE.md](../product/CLAUDE.md) - product context, pillars, segments
-- [Customer Insights](../product/customers/forge/CLAUDE.md) - qualitative data to pair with quantitative
+- [Analytics CLAUDE.md](../../product-development/analytics/CLAUDE.md) - metrics glossary, data sources, common queries, RFCs
+- [Dashboards](../../product-development/analytics/dashboards.md) - existing dashboards and links
+- [Product CLAUDE.md](../../product-development/product/CLAUDE.md) - product context, pillars, segments
+- [Customer Insights](../../product-development/product/customers/CLAUDE.md) - qualitative data to pair with quantitative
 
 ## Slack Channels
 
 | Channel | Purpose |
 |---------|---------|
 | `#forge-product` | Product discussions where data questions arise |
-| `#forge-general` | Team-wide announcements |
+| `#forge-analytics` | Metrics deep-dives and dashboard requests |
 | `#forge-eng` | Engineering context for instrumentation questions |
 
 ## People to Meet
 
 | Person | Why |
 |--------|-----|
-| Grace Lin | Analytics lead - metrics, dashboards, data access |
-| Casey Nguyen | Analytics partner for Forge - current projects and context |
+| Casey Nguyen | Analytics lead - metrics, dashboards, data access |
 | Hannah Stulberg | PM - product priorities, what metrics matter most |
 | Drew Martinez | Strategy & Ops - business metrics and reporting |
 

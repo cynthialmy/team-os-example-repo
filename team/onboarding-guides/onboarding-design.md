@@ -27,15 +27,15 @@ See [General Onboarding](onboarding-general.md#shared-tools-everyone-gets-these)
 
 1. Complete [General Onboarding](onboarding-general.md) setup first
 2. Get Figma edit access and explore the `Forge Labs` workspace
-3. Review the [design patterns and component library](../product/PRDs/forge/design-patterns/CLAUDE.md)
+3. Review the [design documentation index](../../product-development/design/CLAUDE.md)
 4. Get Amplitude access for usage data context
 
 ## Key Documents
 
-- [Design Patterns](../product/PRDs/forge/design-patterns/CLAUDE.md) - components, copy library, screen inventory
-- [Frontend CLAUDE.md](../frontend/CLAUDE.md) - dev conventions and design system implementation
-- [Product CLAUDE.md](../product/CLAUDE.md) - product context, pillars, user segments
-- [Customer Insights](../product/customers/forge/CLAUDE.md) - user research, verbatims
+- [Design CLAUDE.md](../../product-development/design/CLAUDE.md) - design artifact routing and Figma pointers
+- [Engineering CLAUDE.md](../../product-development/engineering/CLAUDE.md) - implementation conventions and collaboration points
+- [Product CLAUDE.md](../../product-development/product/CLAUDE.md) - product context, pillars, user segments
+- [Customer Insights](../../product-development/product/customers/CLAUDE.md) - user research, verbatims
 
 ## Slack Channels
 
@@ -43,7 +43,7 @@ See [General Onboarding](onboarding-general.md#shared-tools-everyone-gets-these)
 |---------|---------|
 | `#forge-design` | Design reviews, feedback, design system updates |
 | `#forge-product` | Product discussions, customer feedback |
-| `#forge-general` | Team-wide announcements |
+| `#forge-standup` | Daily async standup updates and blockers |
 | `#forge-eng` | Stay close to implementation discussions |
 
 ## People to Meet
@@ -52,7 +52,6 @@ See [General Onboarding](onboarding-general.md#shared-tools-everyone-gets-these)
 |--------|-----|
 | Taylor Brooks | Design peer - current design system, review process |
 | Jamie Ortiz | Design peer - component patterns, interaction design |
-| Emily Zhao | Design system lead |
 | Hannah Stulberg | PM - product priorities and roadmap |
 | Sam Chen | Eng peer - frontend implementation partner |
 

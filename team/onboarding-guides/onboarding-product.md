@@ -26,24 +26,24 @@ See [General Onboarding](onboarding-general.md#shared-tools-everyone-gets-these)
 ### Environment Setup
 
 1. Complete [General Onboarding](onboarding-general.md) setup first
-2. Get Amplitude access and bookmark the [Forge dashboard](../product/analytics/dashboards.md)
-3. Get Figma edit access and review the [design system](../product/PRDs/forge/design-patterns/CLAUDE.md)
+2. Get Amplitude access and bookmark the [Forge dashboard](../../product-development/analytics/dashboards.md)
+3. Get Figma edit access and review the [design doc index](../../product-development/design/CLAUDE.md)
 4. Set up Granola for meeting note capture
 
 ## Key Documents
 
-- [Product CLAUDE.md](../product/CLAUDE.md) - product context, pillars, segments, competitive landscape
-- [PRD Index](../product/PRDs/forge/CLAUDE.md) - all product requirement documents
-- [Customer Insights](../product/customers/forge/CLAUDE.md) - call summaries, verbatims, feature requests
-- [Competitive Research](../product/competitive-research/forge/CLAUDE.md) - competitor intel and comparisons
-- [Strategy Docs](../product/strategy/forge/CLAUDE.md) - roadmaps, vision, business context
+- [Product CLAUDE.md](../../product-development/product/CLAUDE.md) - product context, pillars, segments, competitive landscape
+- [PRD Index](../../product-development/product/PRDs/CLAUDE.md) - all product requirement documents
+- [Customer Insights](../../product-development/product/customers/CLAUDE.md) - call summaries, verbatims, feature requests
+- [Competitive Research](../../product-development/product/competitive-research/CLAUDE.md) - competitor intel and comparisons
+- [Strategy Docs](../../product-development/product/strategy/CLAUDE.md) - roadmaps, vision, business context
 
 ## Slack Channels
 
 | Channel | Purpose |
 |---------|---------|
 | `#forge-product` | Product discussions, customer feedback, roadmap |
-| `#forge-general` | Team-wide announcements |
+| `#forge-standup` | Daily async standup updates and blockers |
 | `#forge-eng` | Stay close to engineering decisions |
 | `#forge-design` | Design reviews and feedback |
 
@@ -51,11 +51,11 @@ See [General Onboarding](onboarding-general.md#shared-tools-everyone-gets-these)
 
 | Person | Why |
 |--------|-----|
-| Jordan Reeves | PM peer - current product priorities and context |
-| Alex Chen | PM peer - strategy and planning |
-| Emily Zhao | Design lead - design system, review process |
-| Grace Lin | Analytics - metrics, dashboards, data questions |
-| Casey Nguyen | Analytics partner for Forge |
+| Hannah Stulberg | Product strategy, priorities, and roadmap context |
+| Alex Rivera | Engineering partner for feasibility and scope trade-offs |
+| Taylor Brooks | Design partner for UX and interaction quality |
+| Jamie Ortiz | Design partner for component and flow consistency |
+| Casey Nguyen | Analytics partner for metrics and experiments |
 
 ## Org Chart
 
@@ -64,7 +64,7 @@ Product reports to the Head of Product. Cross-functional partners: Engineering (
 ## First Tasks
 
 - [ ] Read the 3 most recent PRDs to understand current product direction
-- [ ] Shadow a customer call (check the [customer insights](../product/customers/forge/CLAUDE.md) for upcoming calls)
+- [ ] Shadow a customer call (check the [customer insights](../../product-development/product/customers/CLAUDE.md) for upcoming calls)
 - [ ] Review the competitive landscape doc
-- [ ] Meet with your PM peers (Jordan, Alex) for context transfer
+- [ ] Meet with Hannah and Alex for context transfer on priorities and execution
 - [ ] Pick up a small product task from the current sprint in Linear / Jira / Asana

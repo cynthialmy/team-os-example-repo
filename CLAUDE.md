@@ -41,6 +41,8 @@
 
 ## Doc Index
 
+**Canonical navigation source:** This file is the source of truth for top-level documentation routing. If folder ownership or index locations change, update this file first and have downstream docs link back here.
+
 **When looking up artifacts for a specific feature (PRDs, RFCs, plans, schemas, dashboards, experiments, tickets), check `product-development/feature-index.yaml` first.** It maps every feature to all related artifacts in one place.
 
 | Area | File | Description |

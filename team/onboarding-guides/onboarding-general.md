@@ -37,19 +37,19 @@ See your role-specific onboarding guide for additional tools.
 
 ## Key Documents
 
-- [Platform Overview](../product/product-context/forge-platform-overview.md) - what Forge does
-- [Business Info](../product/strategy/business-context/forge-business-info.md) - company context
+- [Platform Overview](../../product-development/product/product-context/forge-platform-overview.md) - what Forge does
+- [Business Info](../../product-development/product/strategy/business-context/forge-business-info.md) - company context
 
 ## Slack Channels
 
 | Channel | Purpose |
 |---------|---------|
-| `#forge-general` | Team-wide announcements and discussion |
 | `#forge-eng` | Engineering discussion, architecture decisions |
-| `#forge-eng-standup` | Daily async standup posts |
+| `#forge-standup` | Daily async standup posts |
 | `#forge-product` | Product discussions, customer feedback, roadmap |
 | `#forge-incidents` | Production incidents and on-call alerts |
-| `#forge-deploys` | Automated deploy notifications |
+| `#forge-launches` | Launch coordination and release announcements |
+| `#forge-random` | Informal team discussion and social chat |
 
 ## People to Meet
 
@@ -57,12 +57,12 @@ Your manager will pair you with an onboarding buddy on your first day.
 
 | Person | Role |
 |--------|------|
-| Jordan Reeves | Product questions |
-| Alex Chen | Product questions |
-| Sam Torres | Engineering architecture |
-| Priya Patel | Engineering architecture |
-| Emily Zhao | Design system |
-| Grace Lin | Data and analytics |
+| Hannah Stulberg | Product questions and roadmap context |
+| Alex Rivera | Engineering management and process |
+| Jordan Kim | Backend and architecture context |
+| Sam Chen | Frontend and delivery workflow |
+| Taylor Brooks | Design system and UX patterns |
+| Casey Nguyen | Data and analytics context |
 
 ## Org Chart
 

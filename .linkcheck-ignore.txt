@@ -1,0 +1,19 @@
+# Format: relative/path/to/file.md | link-target-as-written
+# Temporary debt list for known legacy docs. Keep this list shrinking over time.
+
+.claude/commands/customer-call.md | ../transcripts/CustomerName.md#120425---bi-weekly-check-in
+.claude/skills/customer-call-summary/SKILL.md | examples/acme-01-27-26.md
+product-development/analytics/schemas/prototyping/project-generations.md | ../metrics/error-codes.md
+product-development/engineering/plans/deployment/custom-domains.md | ../../../product/analytics/metrics/deployment/custom-domains-metrics.md
+product-development/engineering/plans/prototyping/version-history.md | ../../../product/analytics/schemas/prototyping/project_versions.md
+product-development/engineering/plans/prototyping/version-history.md | ../../../product/analytics/metrics/prototyping/version-history-metrics.md
+product-development/engineering/plans/starter-templates/community-marketplace.md | ../../../product/analytics/metrics/starter-templates/marketplace-metrics.md
+product-development/engineering/plans/starter-templates/community-marketplace.md | ../../../product/analytics/schemas/starter-templates/published_templates.md
+product-development/engineering/plans/starter-templates/community-marketplace.md | ../../../product/analytics/schemas/starter-templates/template_forks.md
+product-development/engineering/plans/starter-templates/community-marketplace.md | ../../../product/analytics/dashboards/starter-templates/marketplace-dashboards.md
+product-development/product/customers/accounts/stackline/CLAUDE.md | calls/transcripts/
+product-development/product/launch-emails/one-click-deploy-launch.md | ../PRDs/forge/one-click-deploy.md
+product-development/product/meetings/team-bi-weekly/docs/2026-03-04-bi-weekly-review.md | ../../../engineering/plans/deployment/custom-domains.md
+product-development/product/meetings/team-bi-weekly/docs/2026-03-04-bi-weekly-review.md | ../../customers/accounts/meridian-health/account-context.md
+product-development/product/meetings/team-bi-weekly/summaries/bi-weekly-summary.md | ../docs/2026-02-18-bi-weekly-review.md
+product-development/product/sales-enablement/customer-onboarding-guide.md | ../customers/feature-requests/feature-requests.md

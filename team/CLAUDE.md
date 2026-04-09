@@ -2,6 +2,8 @@
 
 Team resources, onboarding, and retrospectives.
 
+Navigation ownership note: top-level documentation routing is owned by [`../CLAUDE.md`](../CLAUDE.md). Keep this file focused on team resources and update the root index first when paths move.
+
 ## Folders
 
 | Folder | What's Here |
